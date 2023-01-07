@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 /**
- * Testing class for Part of Speech (POS) Tagger Extra Credit, POSTaggerEC.java class
+ * Testing class for Part of Speech (POS) Tagger, POSTaggerEC.java class
  *
  * @author Andy Xu & Kabir Moghe, Dartmouth CS 10, Fall 2022
  */
